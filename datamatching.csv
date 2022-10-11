@@ -1,0 +1,7 @@
+,__id_left,__id_right,match_score,match_rank,fname,name,mname,middlename,lname,surname,dob,date
+0,1,1,0.05804495341586317,1,Will,William,James,J,Johnston,Johnston,20/05/1980,20/05/1980
+1,1,4,-0.021176760948983023,2,Will,William,James,James,Johnston,Johnston,20/05/1980,21/05/1951
+2,2,2,0.31283992687178064,1,James,James,Paul,Paul,Smith,Smith,15/06/1990,15/06/1990
+3,3,3,0.11431430881272626,1,Jody,Jodi,Liz,Elizabeth,Brown,Brown,20/05/1960,20/05/1961
+4,4,4,-0.13772262941606306,1,David,William,James,James,Williams,Johnston,01/01/2000,21/05/1951
+5,4,2,-0.21829578968155558,2,David,James,James,Paul,Williams,Smith,01/01/2000,15/06/1990
